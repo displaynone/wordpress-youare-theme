@@ -1,0 +1,13 @@
+
+th, .even {background-color: #F7F7F3;}
+th {background: url(../../../images/body.gif) #EFEEEA; font-size: 0.9em; font-weight: bold; letter-spacing: 0.1em; line-height: 0.6em; padding: 20px; text-align: left; text-transform: uppercase;}
+.yes {background: url(../../../images/icons/check.png) no-repeat center center transparent; text-indent: -4000px; width: 50px; }
+.success { background: url(../../../images/icons/check.png) no-repeat 10px 50% #EEFFDD; border: 1px solid #CCDDBB; padding: 10px 30px;}
+.info { background: url(../../../images/icons/info.png) no-repeat scroll 10px 50% #DDEEFF; border: 1px solid #CCDDDD; padding: 10px 30px;}
+.alert { background: url(../../../images/icons/alert.png) no-repeat scroll 10px 50% #FFFFCC; border: 1px solid #EEDD88; padding: 10px 30px;}
+.error { background: url(../../../images/icons/error.png) no-repeat scroll 10px 50% #FFDDDD; border: 1px solid #EE8877; padding: 10px 30px;}
+.fourcol { border: 1px dashed #CCCCCC; float: left; margin-bottom: 40px; margin-right: 3%; min-height: 1px; padding: 4px; width: 30%;}
+.sixcol { border: 1px dashed #CCCCCC; float: left; margin-bottom: 40px; margin-right: 3%; min-height: 1px; padding: 4px; width: 47%;}
+.last { margin-right: 0; }
+blockquote.right { float: right; margin: 0 0 20px 20px; display: block; font-size: 1.4em; line-height: 1.6em; padding: 0; width: 32%; }
+.intro { background: url(../../../images/line2.gif) repeat-x center bottom transparent; border-bottom: 1px solid #FFFFFF; font-size: 1.1em;  padding-bottom: 1em;}

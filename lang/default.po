@@ -1,0 +1,1226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YouAre Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-30 22:06+0100\n"
+"PO-Revision-Date: 2012-09-30 22:10+0100\n"
+"Last-Translator: Design Is Pure <info@desirity.com>\n"
+"Language-Team: Design Is Pure <info@desirity.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: /wordpress/wp-content/themes/youare\n"
+
+#: /wordpress/wp-content/themes/youare/search.php:4
+#: /wordpress/wp-content/themes/youare/header.php:27
+#: /wordpress/wp-content/themes/youare/header.php:28
+#: /wordpress/wp-content/themes/youare/header.php:29
+msgid "Search Results for "
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/search.php:10
+#: /wordpress/wp-content/themes/youare/archive.php:43
+#: /wordpress/wp-content/themes/youare/archive.php:79
+#: /wordpress/wp-content/themes/youare/archive.php:100
+#: /wordpress/wp-content/themes/youare/archive.php:122
+#: /wordpress/wp-content/themes/youare/archive.php:141
+#: /wordpress/wp-content/themes/youare/archive.php:165
+msgid "posts"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/search.php:34
+#: /wordpress/wp-content/themes/youare/index_list.php:66
+#: /wordpress/wp-content/themes/youare/archive.php:203
+#, php-format
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/search.php:36
+#: /wordpress/wp-content/themes/youare/index_list.php:69
+#: /wordpress/wp-content/themes/youare/index_list.php:73
+#: /wordpress/wp-content/themes/youare/single.php:9
+#: /wordpress/wp-content/themes/youare/page_fullwidth.php:58
+#: /wordpress/wp-content/themes/youare/index.php:26
+#: /wordpress/wp-content/themes/youare/index.php:65
+#: /wordpress/wp-content/themes/youare/page.php:62
+#: /wordpress/wp-content/themes/youare/archive.php:206
+msgid "Edit This"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/search.php:36
+#: /wordpress/wp-content/themes/youare/index_list.php:69
+#: /wordpress/wp-content/themes/youare/index_list.php:73
+#: /wordpress/wp-content/themes/youare/index.php:26
+#: /wordpress/wp-content/themes/youare/archive.php:206
+msgid "No comments"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/search.php:36
+#: /wordpress/wp-content/themes/youare/index_list.php:69
+#: /wordpress/wp-content/themes/youare/index_list.php:73
+#: /wordpress/wp-content/themes/youare/index.php:26
+#: /wordpress/wp-content/themes/youare/archive.php:206
+msgid "1 comment"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/search.php:36
+#: /wordpress/wp-content/themes/youare/index_list.php:69
+#: /wordpress/wp-content/themes/youare/index_list.php:73
+#: /wordpress/wp-content/themes/youare/index.php:26
+#: /wordpress/wp-content/themes/youare/archive.php:206
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/search.php:36
+#: /wordpress/wp-content/themes/youare/index_list.php:75
+#: /wordpress/wp-content/themes/youare/single.php:43
+#: /wordpress/wp-content/themes/youare/index.php:29
+#: /wordpress/wp-content/themes/youare/index.php:74
+#: /wordpress/wp-content/themes/youare/functions.php:510
+#: /wordpress/wp-content/themes/youare/archive.php:207
+msgid "read more..."
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/search.php:48
+msgid "Search Results for"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/search.php:61
+msgid "No results found! You sure you wrote it correctly? Please try again."
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/index_list.php:11
+#: /wordpress/wp-content/themes/youare/index.php:43
+msgid "Page "
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/share.php:1
+#: /wordpress/wp-content/themes/youare/share.php:3
+msgid "Share in"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/archives.php:17
+#, php-format
+msgid "%s posts. %s categories"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/single.php:3
+msgid "Leave a comment"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/single.php:3
+#: /wordpress/wp-content/themes/youare/comments.php:19
+msgid "1 Comment"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/single.php:3
+#: /wordpress/wp-content/themes/youare/comments.php:19
+msgid "% Comments"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/single.php:9
+msgid "Print"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/single.php:24
+msgid "Next &raquo;"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/single.php:29
+msgid "&laquo; Prev"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/page_fullwidth.php:23
+#: /wordpress/wp-content/themes/youare/page_fullwidth.php:35
+#: /wordpress/wp-content/themes/youare/page.php:18
+msgid "Go to"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/comments.php:11
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/comments.php:19
+msgid "No Comments Yet"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/comments.php:28
+msgid "Trackbacks &amp; Pingbacks"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/comments.php:39
+msgid "Comments are closed for this entry."
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/comments.php:46
+#, php-format
+msgid "You must be <a href=\"%s/wp-login.php?redirect_to=%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/comments.php:52
+#, php-format
+msgid "Logged in as <a href=\"%s/wp-admin/profile.php\">%s</a>. <a href=\"%s\" title=\"Log out of this account\">Log out &raquo;</a>"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/comments.php:56
+msgid "Name"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/comments.php:57
+#: /wordpress/wp-content/themes/youare/comments.php:62
+msgid "(required)"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/comments.php:61
+msgid "Email"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/comments.php:66
+msgid "Website (optional)"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/comments.php:67
+msgid "Please include http://"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/comments.php:75
+#: /wordpress/wp-content/themes/youare/comments.php:80
+msgid "Comment"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/comments.php:76
+msgid "Your email address will <strong>not</strong> be published. Your photo in comments, use <a rel=\"external\" href=\"http://gravatar.com\">Gravatar</a>"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/header.php:23
+#: /wordpress/wp-content/themes/youare/header.php:24
+#: /wordpress/wp-content/themes/youare/header.php:25
+msgid "Page not found"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/header.php:73
+msgid "Comments RSS 2.0 Feed"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/header.php:117
+msgid "Follow"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/header.php:136
+msgid "Homepage Design - Display list of posts"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/header.php:136
+msgid "List of posts"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/header.php:138
+msgid "Homepage Design - Display posts in Columns"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/header.php:138
+msgid "Posts in Columns"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/404.php:5
+msgid "Error 404: Page Not Found"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions.php:49
+msgid "Delete comment"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions.php:49
+msgid "delete"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions.php:50
+msgid "Mark comment as spam"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions.php:50
+msgid "mark as spam"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions.php:57
+msgid "Please enable referrers in your browser, or, if you're a spammer, bugger off!"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions.php:76
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions.php:79
+msgid "&laquo; First"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions.php:80
+msgid "Last &raquo;"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions.php:81
+msgid "&raquo;"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions.php:82
+msgid "&laquo;"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions.php:83
+#: /wordpress/wp-content/themes/youare/functions.php:84
+msgid "..."
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions.php:398
+msgid "Header"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions.php:491
+msgid "<p class=\"alert\">This post is password protected. To view it please enter your password below:</p>"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions.php:492
+msgid "Submit Password"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions.php:537
+msgid "This post has not title"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions.php:653
+msgid "Edit"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/tags.php:9
+msgid "Tags Archive"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/tags.php:10
+msgid "Tag Cloud"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/archive.php:25
+#: /wordpress/wp-content/themes/youare/archive.php:34
+#: /wordpress/wp-content/themes/youare/archive.php:54
+msgid "Subscribe to this category"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/archive.php:25
+#: /wordpress/wp-content/themes/youare/archive.php:34
+#: /wordpress/wp-content/themes/youare/archive.php:54
+#: /wordpress/wp-content/themes/youare/archive.php:68
+#, php-format
+msgid "Subscribe to %s"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/archive.php:26
+#: /wordpress/wp-content/themes/youare/archive.php:35
+#: /wordpress/wp-content/themes/youare/archive.php:55
+msgid "Go to this category"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/archive.php:42
+#: /wordpress/wp-content/themes/youare/archive.php:78
+#: /wordpress/wp-content/themes/youare/archive.php:99
+#: /wordpress/wp-content/themes/youare/archive.php:121
+#: /wordpress/wp-content/themes/youare/archive.php:140
+#: /wordpress/wp-content/themes/youare/archive.php:164
+msgid "post"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/archive.php:68
+msgid "Subscribe to this tag"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/archive.php:70
+msgid "Tags"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/archive.php:157
+#, php-format
+msgid "Posts by %s"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/archive.php:177
+msgid "Blog Archives"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/footer.php:20
+msgid "Logo"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/footer.php:22
+msgid "Your Company tag line or Featured work"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/footer.php:23
+msgid "Company services. Go to YouAre Options menu (the Footer Promo section) in WP Dashboard."
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/author-pic.php:10
+msgid "Widget for Author Page, you must indicate your photo"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/author-pic.php:16
+msgid "Custom Author Photo"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/author-pic.php:62
+#: /wordpress/wp-content/themes/youare/widgets/follow-links.php:102
+msgid "About"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/author-pic.php:66
+msgid "The photo is set in YouAre Theme Options, if you want to modify it you must go there"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/twitter-timeline.php:10
+msgid "Widget to display your latest Twitter updates"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/twitter-timeline.php:16
+msgid "Custom Latest Tweets"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/twitter-timeline.php:41
+msgid "just now"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/twitter-timeline.php:42
+msgid "1 minute ago"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/twitter-timeline.php:43
+#, php-format
+msgid "%s minutes ago"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/twitter-timeline.php:44
+msgid "1 hour ago"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/twitter-timeline.php:45
+#, php-format
+msgid "%s hours ago"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/twitter-timeline.php:46
+msgid "Yesterday"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/twitter-timeline.php:47
+#, php-format
+msgid "%s days ago"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/twitter-timeline.php:48
+#, php-format
+msgid "%s weeks ago"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/twitter-timeline.php:86
+msgid "Latest Tweets"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/twitter-timeline.php:90
+#: /wordpress/wp-content/themes/youare/widgets/monthly-archives.php:51
+#: /wordpress/wp-content/themes/youare/widgets/popular-tags.php:77
+#: /wordpress/wp-content/themes/youare/widgets/popular-categories.php:76
+#: /wordpress/wp-content/themes/youare/widgets/about-box.php:96
+#: /wordpress/wp-content/themes/youare/widgets/ads-boxes.php:74
+msgid "Title:"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/twitter-timeline.php:95
+msgid "Number of tweets"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/twitter-timeline.php:99
+msgid "This widget shows you to display your latest tweets. Twitter account is configured in YouAre Theme Options"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/monthly-archives.php:10
+msgid "Widget showing monthly archive grouped by year"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/monthly-archives.php:16
+msgid "Custom Monthly archive grouped by year"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/monthly-archives.php:26
+#: /wordpress/wp-content/themes/youare/widgets/monthly-archives.php:47
+msgid "Archives"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/monthly-archives.php:55
+msgid "This widget will show a list of months"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/popular-tags.php:16
+msgid "Display popular tags."
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/popular-tags.php:22
+msgid "Custom Most Popular Tags"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/popular-tags.php:83
+#: /wordpress/wp-content/themes/youare/widgets/popular-categories.php:82
+msgid "Display Count"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/popular-tags.php:87
+msgid "Tag List order:"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/popular-tags.php:89
+#: /wordpress/wp-content/themes/youare/widgets/popular-categories.php:88
+msgid "Most Popular"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/popular-tags.php:90
+#: /wordpress/wp-content/themes/youare/widgets/popular-categories.php:89
+msgid "Alphabetical"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/popular-tags.php:95
+msgid "Tag Limit:"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/popular-tags.php:100
+msgid "Exclude Tag by name:"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/popular-tags.php:102
+msgid "Separate names by comma."
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/popular-tags.php:107
+msgid "Exclude tags with 0 posts"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/popular-tags.php:112
+#: /wordpress/wp-content/themes/youare/widgets/popular-categories.php:111
+msgid "Display as a drop down"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/popular-categories.php:16
+msgid "Display popular categories."
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/popular-categories.php:22
+msgid "Custom Most Popular Categories"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/popular-categories.php:24
+msgid "Topics"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/popular-categories.php:86
+msgid "Category List order:"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/popular-categories.php:94
+msgid "Category Limit:"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/popular-categories.php:99
+msgid "Exclude Category by ID:"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/popular-categories.php:101
+msgid "Separate IDs by comma."
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/popular-categories.php:106
+msgid "Exclude Categories with 0 posts"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/about-box.php:10
+msgid "A Short Author Bio. Your bio is defined in YouAre Theme Options"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/about-box.php:16
+msgid "Custom Author Box Sidebar"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/about-box.php:41
+#: /wordpress/wp-content/themes/youare/widgets/about-box.php:85
+msgid "About the author"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/about-box.php:42
+msgid "Read more"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/about-box.php:46
+msgid "Go to YouAre Options menu in your WP Dashboard and check out the Author Box Sidebar section."
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/about-box.php:104
+msgid "You must configure your description in YouAre Options"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/about-box.php:109
+msgid "You must configure your About Page in YouAre Options"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/about-box.php:115
+msgid "Page:"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/about-box.php:115
+msgid "Description:"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/about-box.php:121
+msgid "Show In About Page?"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/about-box.php:125
+msgid "Show Social Links?"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/follow-links.php:10
+msgid "Widget for follow links, your social identity: Twitter, Facebook, Google+, LinkedIn"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/follow-links.php:16
+msgid "Custom Follow Links"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/follow-links.php:113
+msgid "You must configure your social accounts in YouAre Theme Options"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/follow-links.php:116
+msgid "Show Twitter?"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/follow-links.php:121
+msgid "Show Facebook?"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/follow-links.php:126
+msgid "Show Google+?"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/follow-links.php:131
+msgid "Show LinkedIn?"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/ads-boxes.php:10
+msgid "Two 125x125 ads blocks"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/ads-boxes.php:16
+msgid "Custom Ads"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/ads-boxes.php:36
+#: /wordpress/wp-content/themes/youare/widgets/ads-boxes.php:70
+msgid "Ads"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/ads-boxes.php:77
+msgid "Ads box 1"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/ads-boxes.php:79
+#: /wordpress/wp-content/themes/youare/widgets/ads-boxes.php:89
+msgid "Link URL:"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/ads-boxes.php:81
+#: /wordpress/wp-content/themes/youare/widgets/ads-boxes.php:91
+msgid "Image URL:"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/ads-boxes.php:83
+#: /wordpress/wp-content/themes/youare/widgets/ads-boxes.php:93
+msgid "Alternate text:"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/ads-boxes.php:87
+msgid "Ads box 2"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/single-category-list.php:10
+msgid "Widget showing category list for a single post"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/single-category-list.php:16
+msgid "Custom Single Category List"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/widgets/single-category-list.php:59
+msgid "This widget is only showed when it is a single post"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/refresh-thumbnails.php:19
+#, php-format
+msgid "%s's thumbs updated."
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/contact-form.php:17
+msgid "Name*"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/contact-form.php:21
+msgid "Email*"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/contact-form.php:25
+msgid "Subject*"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/contact-form.php:30
+msgid "Message*"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/contact-form.php:34
+msgid "Send"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/contact-form.php:89
+msgid "Error: please fill the required field (name)."
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/contact-form.php:91
+msgid "Error: please enter a valid email address."
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/contact-form.php:93
+msgid "Error: please fill the required field (subject)."
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/contact-form.php:95
+msgid "ERROR: Invalid Contact Form Session."
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/contact-form.php:109
+msgid "Error: unable to send e-mail - status code: "
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/contact-form.php:111
+msgid "Your message has been sent. Thanks"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/comments.php:27
+msgid " (Edit)"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/comments.php:34
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:49
+msgid "Homepage Design"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:51
+msgid "Home template"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:53
+msgid "Select the kind of homepage design you prefer."
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:55
+msgid "Grid (3 Columns). We recommend edit Settings > Reading (Show 3 posts)"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:56
+msgid "List. Traditional Homepage. We recommend edit Settings > Reading (Show 10 posts)"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:58
+msgid "Author Box Sidebar"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:60
+msgid "About you (A brief description)"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:62
+msgid "2 lines recommended. XHTML allowed. eg: I am founder of &lt;a href=\"http://domain.com\"&gt;Company Name&lt;/a&gt;, a creative web design agency based in London."
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:68
+msgid "Identity"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:70
+msgid "<a href=\"http://twitter.com/\">Twitter</a> (Username Only)"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:72
+msgid "http://twitter.com/<strong>username</strong>"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:77
+msgid "<a href=\"http://facebook.com/\">Facebook</a> (ID/Username Only)"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:79
+msgid "http://facebook.com/<strong>id</strong>"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:84
+msgid "<a href=\"http://plus.google.com/\">Google+</a> (ID/Username Only)"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:86
+msgid "https://plus.google.com/<strong>id</strong>"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:91
+msgid "<a href=\"http://linkedin.com/\">Linkedin</a> (Username Only)"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:93
+msgid "http://linkedin.com/in/<strong>username</strong>"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:99
+msgid "Header Logo"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:101
+msgid "Your logo and favicon"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:104
+msgid "If you configure and SAVE your Twitter, Facebook or Google Plus account you will have more avatars to select from"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:107
+msgid "Theme Pages"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:109
+msgid "Author/About Page"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:115
+msgid "Your photo in the 'Author Page' (Sidebar)"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:117
+msgid "Photo URL"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:119
+msgid "eg: http://domain.com/photo.jpg. Image will be resized. <br />Tip: Place your image in the <code>/wp-content/themes/youare/images/sidebar</code> subdirectory and paste the URL of the photo"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:124
+msgid "Thumbnails sizes"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:126
+msgid "Modify/add thumbs sizes"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:135
+msgid "There are different thumbs sizes used in the theme, you can modify them or add new ones"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:138
+msgid "Quick Post Form"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:140
+msgid "Add new entries to your blog"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:143
+msgid "Show Publish Form to write a quick post without login to your WordPress dashboard"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:146
+msgid "Footer Promo"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:148
+msgid "Promote your company"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:150
+msgid "I want to promote my company services in Footer."
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:153
+msgid "Company tag line or Featured work"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:159
+msgid "Company services"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:161
+msgid "XHTML required to look gorgeous, eg: &lt;p&gt;Company services in one line&lt;/p&gt;<br>"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:167
+msgid "Excerpt"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:169
+msgid "Excerpt length (in words)"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:173
+msgid "Custom excerpt"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:177
+msgid "Default empty excerpt"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:180
+msgid "Sometimes the posts doesn't have content, write what you want to show in these cases."
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:185
+msgid "Footer Credits / Stats Code"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:187
+msgid "Credits (Your name)"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:189
+msgid "Your Name Here"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:191
+msgid "Stats code"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:193
+msgid "Paste your Google Analytics (or other) tracking code here<br>"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:247
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:274
+msgid " Options"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:248
+msgid "Refresh Thumbs"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:264
+msgid " settings saved."
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:266
+msgid " settings reset."
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:280
+msgid "About YouAre Theme"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:281
+msgid "Support"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:286
+msgid "YouAre Theme works in WordPress 3.3+ and is released under GPL License. This theme is designed and developed by <a href=\"http://desirity.com/\">Desirity</a>. "
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:288
+msgid "We will not provide any support via email. If you have questions about using or extending this theme, the best resources are our <a href=\"http://themeforest.net/user/desirity/portfolio\">ThemeForest's account</a> and <a href=\"http://wordpress.org/support/\">WordPress Forums</a>."
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:349
+msgid "Thumb ID"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:349
+msgid "Width"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:349
+msgid "Height"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:349
+msgid "Crop"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:353
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:368
+msgid "Delete"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:355
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:371
+msgid "Add"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:357
+msgid "You must update thumbs for getting new image sizes"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:357
+msgid "Update"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:503
+msgid "<strong>Page IDs and Names</strong> (<em>Archives Page</em> you can't exclude). <a href=\"http://wptheme.youare.com/wp-content/themes/youare/images/screenshot_archives_page.png\">How to make an archives page</a>.<br />"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:561
+msgid "Your own picture (Size: 60x60px)"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:578
+msgid "Save changes"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/youare-admin.php:584
+msgid "Reset"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/theme-customizer.php:63
+msgid "Reset gradient"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/theme-customizer.php:194
+msgid "Reset color"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/theme-customizer.php:309
+msgid "Reset pattern"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/theme-customizer.php:580
+msgid "By selecting one of these skins, you change your site design instantly"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/theme-customizer.php:585
+msgid "There are not any customized options saved yet"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/theme-customizer.php:606
+#: /wordpress/wp-content/themes/youare/functions/theme-customizer.php:611
+#: /wordpress/wp-content/themes/youare/functions/theme-customizer.php:613
+#: /wordpress/wp-content/themes/youare/functions/theme-customizer.php:618
+msgid "\\'Save as\\' new name..."
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/theme-customizer.php:664
+msgid "Special zones"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/theme-customizer.php:676
+#: /wordpress/wp-content/themes/youare/functions/theme-customizer.php:751
+#: /wordpress/wp-content/themes/youare/functions/theme-customizer.php:813
+#: /wordpress/wp-content/themes/youare/functions/theme-customizer.php:856
+msgid "Single color"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/theme-customizer.php:684
+#: /wordpress/wp-content/themes/youare/functions/theme-customizer.php:835
+#: /wordpress/wp-content/themes/youare/functions/theme-customizer.php:872
+msgid "Patterns"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/theme-customizer.php:698
+msgid "Text color"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/theme-customizer.php:714
+msgid "Text shadow"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/theme-customizer.php:729
+#: /wordpress/wp-content/themes/youare/functions/theme-customizer.php:739
+msgid "Links"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/theme-customizer.php:760
+msgid "Font"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/theme-customizer.php:772
+msgid "Select one <a href=\"http://www.google.com/webfonts\">Google web fonts</a>"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/theme-customizer.php:780
+msgid "or write the name (p.s. Droid Sans)"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/theme-customizer.php:794
+msgid "Size <small>(only for experts)</small>"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/theme-customizer.php:801
+msgid "Background"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/theme-customizer.php:864
+msgid "Gradient"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/theme-customizer.php:886
+msgid "Font color"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/theme-customizer.php:895
+msgid "Skins"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/theme-customizer.php:907
+msgid "List"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/home-post.php:42
+msgid "Write a Quick Post"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/home-post.php:48
+msgid "Title"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/home-post.php:50
+msgid "Content"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/home-post.php:58
+msgid "None"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/home-post.php:69
+msgid "Publish"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/sidebar-widgets.php:33
+msgid "Author Sidebar"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/sidebar-widgets.php:35
+msgid "Sidebar for the author page"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/sidebar-widgets.php:45
+msgid "Main Sidebar"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/sidebar-widgets.php:47
+msgid "Main sidebar for all the pages"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/sidebar-widgets.php:56
+msgid "Sidebar 404 Page not found"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/sidebar-widgets.php:66
+msgid "Archives Index Page Sidebar"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/sidebar-widgets.php:189
+msgid "You must set Author Page in YouAre Options"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/sidebar-widgets.php:199
+msgid "The Author Sidebar has been configured"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/sidebar-widgets.php:203
+msgid "You must configure your About description in YouAre Options"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/create-css.php:4
+msgid "You don't have permission to do that."
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/functions/create-css.php:10
+msgid "CSS file generated."
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/js/thumbnail.js.php:27
+msgid "Modify thumbnail position"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/js/thumbnail.js.php:27
+#: /wordpress/wp-content/themes/youare/js/admin_widgets.js.php:32
+msgid "Confirm"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/js/thumbnail.js.php:27
+#: /wordpress/wp-content/themes/youare/js/admin_widgets.js.php:32
+msgid "Cancel"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/js/admin_widgets.js.php:18
+msgid "All posts"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/js/admin_widgets.js.php:19
+msgid "All pages"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/js/admin_widgets.js.php:20
+msgid "All categories"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/js/admin_widgets.js.php:21
+msgid "Pages"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/js/admin_widgets.js.php:21
+#: /wordpress/wp-content/themes/youare/js/admin_widgets.js.php:25
+msgid "Select all"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/js/admin_widgets.js.php:25
+msgid "Categories"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/js/admin_widgets.js.php:31
+msgid "Show in"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/js/admin_widgets.js.php:32
+#, php-format
+msgid "Show in - %s"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/js/css_creator.js.php:46
+msgid "This is a quick way to generate different designs. If you need something more complete you must create your own CSS file."
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/js/css_creator.js.php:46
+msgid "Select a element:"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/js/css_creator.js.php:46
+msgid "Save css"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/js/css_creator.js.php:46
+msgid "Show/Hide CSS creator"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/js/css_creator.js.php:49
+msgid "Write your new css name. Use only words, letters or _"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/js/css_creator.js.php:54
+msgid "Selector:"
+msgstr ""
+
+#: /wordpress/wp-content/themes/youare/js/css_creator.js.php:55
+msgid "Properties"
+msgstr ""
+

@@ -1,0 +1,227 @@
+/*Body Font Color*/
+body {  color: #555;}
+
+/*Header and submenu background*/
+header#branding, nav .sub-menu  {text-shadow: none;background: #333; }
+
+/*Body Background Color*/
+body,.bg,.bg_side,#sidebar h2,#content label, .wpcf7 p,.conversation .foot a,header .vcard img, .data,.entry-footer a, .navigation a,#content .date strong,#content th,.subscribe,.splash .comments {background: #ddd url(images/dot.png) repeat 0 0; }
+
+/*Others backgrounds: labels, forms, splash (bottom & top), next previous ...*/
+.bg,.bg_side,#sidebar h2,#content label, .wpcf7 p,.conversation .foot a {background-color: #d3d3d3;text-shadow: 0 1px 0 #fafafa;}
+
+/*Others backgrounds: subnav current, tags, comments container, tr even, archives page topics li, sidebar li hover, calendar links ...*/
+.bgalt,.subnav li.current-cat a, .subnav li.current_page_item a, code, pre, .even,#content ul#topics li, #sidebar .widget li:hover,#wp-calendar td a,#content th,.subscribe { background-color: #f0f0f0;text-shadow: 0 1px 0 #fff; }
+
+/*Splash and posts in vertical list background*/
+.splash,#content .post:hover {background: url(images/line_shadow.png) no-repeat center bottom;}
+
+/*Asides text color: splash, sidebar, footer, post dates, ...*/
+.splash, .bg_side,#content .date, footer .row,.data fieldset { color: #777; }
+
+/*Content background*/
+.row.content-background, .entry-footer .share {background: #fff; }
+
+/*Links*/
+a, header#branding a:hover,#archives_page nav #nav_archives li a, header#branding nav li.current_page_item a, header#branding nav li.current-menu-item a,header#branding nav li.current_page_parent a, header#branding nav li.current_page_item a, header#branding nav li.current-cat a,#archives_page header#branding nav li.menu-item-2547 a { color: #17a; }
+
+/*Links Hover*/
+a:hover, .title a:hover {text-shadow:0 1px 0 #f7f7f7,0 0 10px #ccc,0 0 25px #ddd,0 0 50px #bbb;}
+
+/*Header a links, Meta links*/
+header#branding a, .meta, .comments, #latest-tweets em a,.wordpress { color: #999; }
+
+/*Header a links hover*/
+header#branding a:hover { text-shadow:none; }
+
+/*Header a Nav Link Mobile*/
+#navlink {background:#444; }
+
+/*Heading*/
+.intro, #content .post {border-bottom: 1px solid #eee; }
+
+/*Elements html (abbr, acronym) */
+abbr, acronym, dfn {
+border-bottom: 1px dotted #444;
+}
+/*Table th */
+#content th {border-bottom: 1px solid #ddd; }
+
+/*Table Features Check */
+.yes {background: url(images/icons/check.png) no-repeat center; text-indent: -4000px; }
+
+/*Pricing-Features Table - 3 cols */
+#features_three td {border: 1px dashed #ddd; border-top: none;}
+
+/*Entry lists Archives*/
+#content #smart-archives-block li, #content .year_arch li { border-bottom: 1px dotted #ddd;} 
+
+/*Entry Footer Share Post */
+.entry-footer {background: url(images/line2.gif) repeat-x center 28px;}
+
+/*Facebook entry*/
+.entry-footer a.facebook {background: #568; color: #fff; text-shadow: 0 1px 0 #000;}
+
+/*Twitter entry*/
+.entry-footer a.twitter {background: #cef; color: #000; text-shadow: 0 1px 0 #fff;}
+
+/*Sidebar Widgets li*/
+#sidebar .widget li  {border-top: 1px dashed #ddd; }
+
+/*Comments border bottom, content td */
+.comment, ol.pinglist, #content td {border-bottom: 1px dashed #ddd; }
+
+/*Comments hover background*/
+#comments .conversation .comment:hover, .byuser {background: #fff;}
+
+/*Comments RSS link*/
+p.comments-rss a {padding: 0 0 0 20px;background: url(images/icons/rss.png) no-repeat 0;}
+
+/*Search input*/
+input.search { background: url(images/icons/search_16.png) 6px 6px no-repeat;}
+
+/*Fieldset Contact Form*/
+.data fieldset {border:1px solid #fff;}
+
+/*Success message*/
+.success { border: 1px solid #cdb; background: #efd url(images/icons/check.png) no-repeat 20px; }
+
+/*Info message*/
+.info { border: 1px solid #cdd; background: #def url(images/icons/info.png) no-repeat 20px; }
+
+/*Alert-Warning message*/
+.alert {border:1px solid #ed8;background: #ffc url(images/icons/alert.png) no-repeat 20px;}
+
+/*Error message*/
+.error { border: 1px solid #e87; background: #fdd url(images/icons/error.png) no-repeat 20px; }
+
+
+/* Button Blue */
+a.button.blue,
+a.button.blue:visited {
+ 
+    color: #fff;
+    border: 1px solid #67e;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.25);
+	background: #68e;
+	background: -moz-linear-gradient(top, #6688ee 0%, #3355bb 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#6688ee), color-stop(100%,#3355bb));
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6688ee', endColorstr='#3355bb',GradientType=0 );;
+
+}
+/* Button Blue hover */
+a.button.blue:hover {
+   
+    color: #fff;
+    background: #69e;
+	background: -moz-linear-gradient(top, #6699ee 0%, #3366bb 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#6699ee), color-stop(100%,#3366bb));
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6699ee', endColorstr='#3366bb',GradientType=0 );;
+}
+a.button.blue:active {
+    color: #fff;
+    background: #67e;
+}
+
+/* Button Orange */
+.button.orange,
+.button.orange:visited {
+ 
+    color: #a52;
+    border: 1px solid #f90;
+    text-shadow: 0px 1px 0px #ffd303;
+    background: #ff7700;
+    background: -moz-linear-gradient(top, #ffb501 0%, #ff7700 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffb501), color-stop(100%,#ff7700));
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffb501', endColorstr='#ff7700',GradientType=0 );
+}
+/* Button Orange hover */
+.button.orange:hover {
+   
+    color: #a52;
+    background: #ff8800;
+    background: -moz-linear-gradient(top, #ffb501 0%, #ff8800 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffb501), color-stop(100%,#ff8800));
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffb501', endColorstr='#ff8800',GradientType=0 );
+}
+.button.orange:active {
+    color: #bf6226;
+    background: #ffb501;
+}
+
+/* Button Green */
+a.button.green,
+a.button.green:visited {
+ 
+    color: #fff;
+    border: 1px solid #9a0;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.25);
+    background: #668800;
+    background: -moz-linear-gradient(top, #9fc601 0%, #668800 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#9fc601), color-stop(100%,#668800));
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9fc601', endColorstr='#668800',GradientType=0 );
+}
+/* Button Green hover */
+a.button.green:hover {
+   
+    color: #fff;
+    background: #669900;
+    background: -moz-linear-gradient(top, #9fc601 0%, #669900 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#9fc601), color-stop(100%,#779900));
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9fc601', endColorstr='#779900',GradientType=0 );
+}
+a.button.green:active {
+    color: #fff;
+    background: #9fc601;
+}
+
+/*Pagination links*/
+.wp-pagenavi a, .wp-pagenavi a:link {background-color: #e6e6e6; border: 1px solid #aaa; }
+
+/*Pagination next previous hover*/
+.next:hover,.previous:hover {background-color: #fff;}
+
+/*Pagination visited links*/
+.wp-pagenavi a:visited {border-color: #bbb;background-color: #fafafa;}
+
+/*Pagination hover links*/
+.wp-pagenavi a:hover {	background-color: #eee;}
+
+/*Ads image*/
+#bnbox img { border: 1px solid #eee; }
+
+/*Images border*/
+img.alignleft, img.alignright, img.aligncenter {border: 6px solid #eee;}
+
+/*Images no border*/
+#sidebar img.aligncenter, .splash img.alignright {border:none;}
+
+/*Footer promo*/
+#promo_down .splash {background-image: none;}
+
+/*Footer*/
+footer .row { border-top: 1px solid #ddd; background: url(images/line.gif) repeat-x top;}
+
+
+/* ============================= */
+/* ! Layout for mobile version   */
+/* ============================= */
+@media only screen and (min-width: 320px) 
+and (max-width: 767px) {
+
+footer .row { border:none;background:none; }
+footer nav ul li a{
+	background:#333 url(images/icons/arrow_right.png) no-repeat 94% 50%;
+	border-bottom:1px solid #444;
+}
+
+footer nav a:link,
+footer nav a:visited{
+	
+	color:#999;
+
+}
+
+footer nav li a:hover {color:#aaa;background-color:#383838;}
+footer nav li.current a, footer nav li.current_page_item a {color:#17a;}
+}

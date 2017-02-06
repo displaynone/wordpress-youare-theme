@@ -1,0 +1,11 @@
+YouAre Theme Installation Instructions:
+
+
+1. Unpack or unzip YouAre.
+2. Log in to the WordPress Administration Dashboard. Go to Plugins menu and active plugins uploaded.
+3. Upload the /youare folder to your /wp-content/themes directory.
+4. Click 'Themes' sub-menu from 'Appearance' menu.
+5. Activate the YouAre theme from the available list of themes to preview.
+6. Click on the YouAre Options menu item, scroll to the bottom and click "Save".
+7. To make an archive page: add new page with page template 'Archives'.
+8. To make a tag cloud page: add new page with page template 'Tags'.
